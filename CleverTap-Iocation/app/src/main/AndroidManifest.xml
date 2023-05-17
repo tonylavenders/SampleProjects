@@ -101,16 +101,16 @@
 
 <!--        <meta-data-->
 <!--            android:name="CLEVERTAP_ACCOUNT_ID"-->
-<!--            android:value="TEST-848-RRR-646Z" />-->
+<!--            android:value="" />-->
 <!--        <meta-data-->
 <!--            android:name="CLEVERTAP_TOKEN"-->
-<!--            android:value="TEST-222-b4b" />-->
+<!--            android:value="" />-->
         <meta-data
             android:name="CLEVERTAP_ACCOUNT_ID"
-            android:value="67K-9R8-766Z" />
+            android:value="" />
         <meta-data
             android:name="CLEVERTAP_TOKEN"
-            android:value="b2c-3a6" />
+            android:value="" />
         <meta-data
             android:name="CLEVERTAP_USE_GOOGLE_AD_ID"
             android:value="0" />
